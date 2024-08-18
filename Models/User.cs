@@ -1,4 +1,4 @@
-namespace DotnetAPI{
+namespace DotnetAPI.Models{
     
     public partial class User{
         public int UserId {get; set;}
