@@ -108,3 +108,4 @@ C:\Users\Atakan ALKAN\dotnet-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFra
 C:\Users\Atakan ALKAN\dotnet-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Atakan ALKAN\dotnet-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Atakan ALKAN\dotnet-code\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Atakan ALKAN\dotnet-code\DotnetAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
